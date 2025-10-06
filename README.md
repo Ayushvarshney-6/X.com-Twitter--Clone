@@ -4,7 +4,7 @@ A fully responsive clone of **X.com** built using **HTML** and **TailwindCSS**. 
 
 ## Demo
 
-You can view the live demo [here](#) *(replace with your GitHub Pages link if deployed)*
+You can view the live demo [here](https://ayushvarshney-6.github.io/X.com-Twitter--Clone/)
 
 ## Features
 
@@ -14,17 +14,9 @@ You can view the live demo [here](#) *(replace with your GitHub Pages link if de
 - **Reusable Components**: Header, footer, navigation, and cards designed for easy reuse.
 - **Modern UI/UX**: Mimics the look and feel of the original X.com website.
 
-## Screenshots
-
-![Home Page](screenshots/home.png)  
-*Example screenshot of the homepage.*
-
 ## Technologies Used
 
 - **HTML5**
 - **TailwindCSS**
 - **Responsive Design Techniques**
 - **Flexbox & Grid Layouts**
-
-```bash
-git clone https://github.com/yourusername/x-com-clone.git
