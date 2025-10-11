@@ -4,7 +4,7 @@ A fully responsive clone of **X.com** built using **HTML** and **TailwindCSS**. 
 
 ## Demo
 
-You can view the live demo [here](https://ayushvarshney-6.github.io/X.com-Twitter--Clone/)
+You can view the live demo [here]( https://ayushvarshney-6.github.io/X.comTwitterClone/)
 
 ## Features
 
